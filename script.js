@@ -156,3 +156,4 @@ function sendMail(event) {
             alert("Fehler beim Senden: " + (error.text || error));
         });
 }
+
